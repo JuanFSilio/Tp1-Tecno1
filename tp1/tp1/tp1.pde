@@ -35,7 +35,7 @@ void draw(){
   //circle(100, 230, 50);
   square(70, 195, 50);
   
-  //Celeste
+  //Cian
   fill(0, 255, 255);
   //circle(300, 230, 50);
   square(270, 200, 50);
@@ -54,15 +54,15 @@ void draw(){
   fill(255, 125, 0);
   triangle(170, 40, 120, 50, 170, 120);
   
-  //amarillo verdozo
+  //amarillo verdoso
   fill(182, 225, 0);
   triangle( 280, 50, 240, 40, 230, 120);
   
-  //Celeste verdozo
+  //Cian verdoso
   fill(0, 255,189);
   triangle(350, 140, 360, 190, 270, 170);
   
-  //Celeste Azulado
+  //Cian Azulado
   fill(0, 146, 255);
   triangle(240, 250, 320, 280, 290, 340);
   
